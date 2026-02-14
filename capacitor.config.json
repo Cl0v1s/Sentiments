@@ -1,0 +1,10 @@
+{
+  "appId": "town.bdx.sentiments",
+  "appName": "Sentiments",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}

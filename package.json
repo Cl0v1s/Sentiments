@@ -1,0 +1,38 @@
+{
+  "name": "sentiments",
+  "version": "1.0.0",
+  "description": "Sentiments sur table",
+  "type": "module",
+  "keywords": [
+    "capacitor",
+    "mobile"
+  ],
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "dependencies": {
+    "@capacitor/camera": "latest",
+    "@capacitor/core": "latest",
+    "@capacitor/splash-screen": "latest",
+    "@tailwindcss/vite": "^4.1.18",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.1.18"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "latest",
+    "@storybook/react-vite": "^10.2.8",
+    "prop-types": "^15.8.1",
+    "storybook": "^10.2.8",
+    "vite": "^7.3.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "packageManager": "yarn@4.12.0"
+}
