@@ -1,0 +1,42 @@
+[
+  {
+    "name": "L'INTELLO",
+    "attrs": ["🤫 Réservée", "🧐 Curieuse", "🎯 Spécifique", "✨ Idéaliste"]
+  },
+  {
+    "name": "LA FEMME",
+    "attrs": ["💍 Est bien en couple", "🏠 Priorise sa famille et son mec", "🤝 Aime aider les gens", "🎮 En contrôle"]
+  },
+  {
+    "name": "LA BIMBO",
+    "attrs": ["💄 Belle, sensuelle et le sait", "🔒 Possessive", "🚀 Entreprenante", "😇 Gentille"]
+  },
+  {
+    "name": "LA MANIC PIXIE DREAM GIRL",
+    "attrs": ["👽 Hors du commun", "🤡 Drôle et étrange", "🪄 Paillette dans ta vie", "💊 Santé compliquée"]
+  },
+  {
+    "name": "LA BRO",
+    "attrs": ["🛠️ Bricoleuse débrouillarde", "🍻 A plein de potes mecs", "🍺 Bière Simplicité", "🎮 Jeu vidéo et/ou sport"]
+  },
+  {
+    "name": "L'INCROYABLE",
+    "attrs": ["💪 Fait des efforts", "🎀 Charmante mais ne le sait pas", "❤️ Attentionnée Aimante", "👂 À ton écoute"]
+  },
+  {
+    "name": "LA COOL GIRL",
+    "attrs": ["👟 Sportive", "🌿 Look naturel", "🎨 Trop de passions", "😎 À l'aise"]
+  },
+  {
+    "name": "LA PAS COMME LES AUTRES",
+    "attrs": ["🥳 Boute en train", "🏃‍♀️ Toujours partante", "🌪️ Ne se sens pas toujours comprise", "💎 Pas précieuse"]
+  },
+  {
+    "name": "L'INGÉNUE",
+    "attrs": ["🤩 Émerveillée à l'écoute", "🦋 Spontanée et naïve", "🌡️ Sensible", "☀️ Positive"]
+  },
+  {
+    "name": "LA GIRL BOSS",
+    "attrs": ["🦁 Forte et indépendante", "🎞️ A vécu des choses", "🏹 Sait ce qu'elle veut", "🏔️ N'a besoin de personne"]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "L'INTELLO",
+    "attrs": ["🤫 Réservé", "🧐 Curieux", "🎯 Spécifique", "✨ Idéaliste"]
+  },
+  {
+    "name": "LE POSÉ",
+    "attrs": ["🏠 Casanier", "😌 Pas prise de tête", "📅 Aime la routine", "🃏 Blagueur"]
+  },
+  {
+    "name": "LE CHAMPION",
+    "attrs": ["👑 Fier", "🏋️‍♂️ Sport intense", "🥳 Teufeur", "🧴 Prend soin de lui"]
+  },
+  {
+    "name": "LE PROTAGONISTE",
+    "attrs": ["🙋‍♂️ Présent", "📸 Photo, Cinéma, Musique, Voyage", "🎬 Personnage principal de sa vie", "🚀 Entreprenant"]
+  },
+  {
+    "name": "LE BRO",
+    "attrs": ["🛋️ Soirée posé, canapé", "🍺 Bière Simplicité", "🤝 Les copains avant les seins", "🎮 Jeu vidéo et/ou sport"]
+  },
+  {
+    "name": "LE MEC ASSURÉ",
+    "attrs": ["📣 Extraverti", "🌐 Ultra social", "😏 Charmeur", "🦅 Libre", "⛓️ Passé compliqué"]
+  },
+  {
+    "name": "L'AVENTURIER",
+    "attrs": ["🧪 Aime expérimenter", "🧘 Woke chill indépendant", "🏄‍♂️ Vélo, Surf, Van, Escalade", "😎 À l'aise"]
+  },
+  {
+    "name": "LE VRAI GEEK",
+    "attrs": ["👥 À l'aise en petit groupe", "🔥 Passionné dans ses intérêts", "👾 Jeux vidéo, Manga, JDR, etc.", "💎 Pas superficiel"]
+  },
+  {
+    "name": "L'HOMME",
+    "attrs": ["🕶️ Charismatique", "🍀 A de la chance dans la vie", "💪 Confiant en lui", "🗣️ Opinioné"]
+  },
+  {
+    "name": "LE BABE",
+    "attrs": ["❤️ Passionné", "🔇 Discret Attentif", "🛡️ Prévenant Appréhensif", "🤝 Coopératif Âme d'enfant"]
+  }
+]
